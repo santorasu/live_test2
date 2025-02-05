@@ -40,7 +40,6 @@ class _MyHomePageState extends State<MyHomePage> {
       salaryController.clear();
     }
   }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
